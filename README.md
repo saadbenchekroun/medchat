@@ -28,7 +28,8 @@ MedChat is an advanced AI-powered platform designed to revolutionize medical dia
 
   ## Methdologie
 
-![pipline](https://github.com/user-attachments/assets/a2229116-8844-4d50-b86a-9b712cebbb23)
+![image](https://github.com/user-attachments/assets/6f13abc2-a30e-4aa9-a930-be34959c529f)
+
 
 
 ## Contact
