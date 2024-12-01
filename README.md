@@ -1,3 +1,5 @@
+![medchat logo-01](https://github.com/user-attachments/assets/f82af732-6f62-42d7-ac2e-de7cc87f8498)
+
 # MedChat
 
 MedChat is an advanced AI-powered platform designed to revolutionize medical diagnostics and patient care by leveraging state-of-the-art AI technologies. The platform provides tools for analyzing medical imagery, processing textual data, and combining both modalities to deliver comprehensive insights.
@@ -21,10 +23,10 @@ MedChat is an advanced AI-powered platform designed to revolutionize medical dia
 ## Technologies Used
 
 - **Frontend**: Streamlit
-- **Backend**: PENDING (POSSIBLY FLASK OR FASTAPI)
+- **Backend**: FASTAPI
 - **AI Models**: Finetuned llama3 model on medical images.
-- **Database**: PENDING (POSSIBLY MYSQL)
-- **Other Tools**: FaissStore for vector search, Cloud APIs for storage and computation
+- **AI Model Deployment**: Google Cloud Platform (GCP).
+- **Front-end Deployment**: Streamlit Community Cloud.
 
   ## Methdologie
 
@@ -34,7 +36,7 @@ MedChat is an advanced AI-powered platform designed to revolutionize medical dia
 
 ## Contact
 
-For inquiries or support, reach out to **[medchat@gmail.com](mailto:your-email@example.com)**.
+For inquiries or support, reach out to **[saadbenchekrun@gmail.com](mailto:your-email@example.com)**.
 
 ---
 
