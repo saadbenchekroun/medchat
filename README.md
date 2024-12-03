@@ -28,11 +28,9 @@ MedChat is an advanced AI-powered platform designed to revolutionize medical dia
 - **AI Model Deployment**: Google Cloud Platform (GCP).
 - **Front-end Deployment**: Streamlit Community Cloud.
 
-  ## Methdologie
+## Methdology
 
 ![image](https://github.com/user-attachments/assets/6f13abc2-a30e-4aa9-a930-be34959c529f)
-
-
 
 ## Contact
 
